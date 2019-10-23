@@ -1,0 +1,159 @@
+fileFormatVersion: 2
+guid: 804eb3b4f927bf34ba7b7110a674fdec
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BigRoom
+    100004: BossRoom
+    100006: CandyCain
+    100008: EntryRoom
+    100010: GardenRoom
+    100012: HotCola
+    100014: MintRoom
+    100016: Pepper
+    100018: PreBossRoom
+    100020: RampRoom
+    100022: RampRoom1
+    400000: //RootNode
+    400002: BigRoom
+    400004: BossRoom
+    400006: CandyCain
+    400008: EntryRoom
+    400010: GardenRoom
+    400012: HotCola
+    400014: MintRoom
+    400016: Pepper
+    400018: PreBossRoom
+    400020: RampRoom
+    400022: RampRoom1
+    2100000: BigRoomMat
+    2100002: BossRoomMat
+    2100004: CandyCainMat
+    2100006: EntryRoomMat
+    2100008: GardenRoomMat
+    2100010: HotColaMat
+    2100012: MintRoomMat
+    2100014: PepperMat
+    2100016: PreBossRoomMat
+    2100018: RampRoomMat
+    2100020: RampRoom1Mat
+    2300000: BigRoom
+    2300002: BossRoom
+    2300004: CandyCain
+    2300006: EntryRoom
+    2300008: GardenRoom
+    2300010: HotCola
+    2300012: MintRoom
+    2300014: Pepper
+    2300016: PreBossRoom
+    2300018: RampRoom
+    2300020: RampRoom1
+    3300000: BigRoom
+    3300002: BossRoom
+    3300004: CandyCain
+    3300006: EntryRoom
+    3300008: GardenRoom
+    3300010: HotCola
+    3300012: MintRoom
+    3300014: Pepper
+    3300016: PreBossRoom
+    3300018: RampRoom
+    3300020: RampRoom1
+    4300000: BigRoom
+    4300002: BossRoom
+    4300004: CandyCain
+    4300006: EntryRoom
+    4300008: GardenRoom
+    4300010: HotCola
+    4300012: MintRoom
+    4300014: Pepper
+    4300016: PreBossRoom
+    4300018: RampRoom
+    4300020: RampRoom1
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
